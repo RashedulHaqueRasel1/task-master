@@ -11,9 +11,6 @@ A powerful task management application built with Expo and React Native. Organiz
 - **Cross-Platform**: Works seamlessly on Android, iOS, and web.
 - **Dark Mode**: Switch between light and dark themes based on your preference.
 
-## Screenshots
-
-*(Add screenshots here if available)*
 
 ## Installation
 
